@@ -56,11 +56,8 @@
         <mxCell id="yZjfCOFog3afnpDB0KPi-25" value="&lt;b&gt;拉杜贫困家境&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="333" y="312.5" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yZjfCOFog3afnpDB0KPi-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yZjfCOFog3afnpDB0KPi-26" target="yZjfCOFog3afnpDB0KPi-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-26" value="病毒寄信" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="300" width="70" height="30" as="geometry" />
+          <mxGeometry x="190" y="282.5" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
