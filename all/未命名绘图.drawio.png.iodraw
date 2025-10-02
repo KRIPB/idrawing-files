@@ -164,9 +164,6 @@
         <mxCell id="yZjfCOFog3afnpDB0KPi-83" value="考试无数个&lt;div&gt;父亲只有一个&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="665" y="310" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yZjfCOFog3afnpDB0KPi-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yZjfCOFog3afnpDB0KPi-84" target="yZjfCOFog3afnpDB0KPi-93">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-84" value="找真兰彻" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340.52" y="360" width="76.98" height="30" as="geometry" />
         </mxCell>
@@ -195,7 +192,7 @@
           <mxGeometry x="71.5" y="355.33" width="88.5" height="64.67" as="geometry" />
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-97" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="320" width="130" height="110" as="geometry" />
+          <mxGeometry x="177.5" y="320" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-96" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="yZjfCOFog3afnpDB0KPi-97">
           <mxGeometry x="5" width="120" height="110" as="geometry" />
