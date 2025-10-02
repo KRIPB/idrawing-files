@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-4" value="&lt;b&gt;太空笔&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="170" width="40" height="40" as="geometry" />
+          <mxGeometry x="100" y="230" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="yZjfCOFog3afnpDB0KPi-8">
           <mxGeometry relative="1" as="geometry">
@@ -28,7 +28,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-6" value="&lt;b&gt;机械battle&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="170" width="40" height="40" as="geometry" />
+          <mxGeometry x="100" y="290" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-8" value="&lt;b&gt;乔伊之死&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="250" width="60" height="40" as="geometry" />
