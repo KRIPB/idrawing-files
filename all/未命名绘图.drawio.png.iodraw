@@ -221,8 +221,11 @@
         <mxCell id="yZjfCOFog3afnpDB0KPi-105" value="追求卓越&amp;nbsp;&lt;div&gt;成功就会在不经意间&lt;/div&gt;&lt;div&gt;追上你&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="yZjfCOFog3afnpDB0KPi-103">
           <mxGeometry x="18.15899825820067" y="13.329523809523812" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yZjfCOFog3afnpDB0KPi-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yZjfCOFog3afnpDB0KPi-106" target="yZjfCOFog3afnpDB0KPi-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-106" value="&lt;div&gt;&lt;b&gt;法拉汉 勇敢面对父亲&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;拉杜 勇敢面试&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="455" width="115" height="40" as="geometry" />
+          <mxGeometry x="51" y="455" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-107" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="75" y="510" width="110" height="65" as="geometry" />
