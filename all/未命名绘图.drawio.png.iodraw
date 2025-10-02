@@ -245,6 +245,9 @@
         <mxCell id="yZjfCOFog3afnpDB0KPi-114" value="&lt;span style=&quot;background-color: initial;&quot;&gt;人们会说长道短一会儿，&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;然后就忘了这事&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="yZjfCOFog3afnpDB0KPi-112">
           <mxGeometry x="5.986207584830339" y="12.5" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="yZjfCOFog3afnpDB0KPi-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yZjfCOFog3afnpDB0KPi-96" target="yZjfCOFog3afnpDB0KPi-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
