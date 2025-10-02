@@ -154,6 +154,9 @@
             <mxPoint x="237.5" y="415" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="yZjfCOFog3afnpDB0KPi-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yZjfCOFog3afnpDB0KPi-84" target="yZjfCOFog3afnpDB0KPi-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-84" value="找真兰彻" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="293.02" y="400" width="76.98" height="30" as="geometry" />
         </mxCell>
@@ -182,7 +185,7 @@
           <mxGeometry x="23.25" y="382.67" width="88.5" height="64.67" as="geometry" />
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-97" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="360" width="130" height="110" as="geometry" />
+          <mxGeometry x="140" y="360" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-96" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="yZjfCOFog3afnpDB0KPi-97">
           <mxGeometry x="5" width="120" height="110" as="geometry" />
@@ -249,7 +252,7 @@
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="yZjfCOFog3afnpDB0KPi-94">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="415" as="sourcePoint" />
+            <mxPoint x="140" y="415" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-124" value="&lt;b&gt;偷卷子,被发现&lt;/b&gt;&lt;div&gt;&lt;b&gt;勒令退学&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;救姐姐&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
