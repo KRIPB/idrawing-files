@@ -148,9 +148,10 @@
         <mxCell id="yZjfCOFog3afnpDB0KPi-82" value="&lt;b&gt;三兄弟熬夜看守拉杜父亲&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="566.51" y="310" width="76.98" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yZjfCOFog3afnpDB0KPi-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yZjfCOFog3afnpDB0KPi-84">
+        <mxCell id="yZjfCOFog3afnpDB0KPi-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="415" as="targetPoint" />
+            <mxPoint x="260.52" y="415" as="sourcePoint" />
+            <mxPoint x="237.5" y="415" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-84" value="找真兰彻" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -181,7 +182,7 @@
           <mxGeometry x="65" y="382.66" width="88.5" height="64.67" as="geometry" />
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-97" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="192.5" y="360" width="130" height="110" as="geometry" />
+          <mxGeometry x="160" y="360" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-96" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="yZjfCOFog3afnpDB0KPi-97">
           <mxGeometry x="5" width="120" height="110" as="geometry" />
