@@ -219,7 +219,7 @@
           <mxGeometry x="18.15899825820067" y="13.329523809523812" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-106" value="&lt;div&gt;&lt;b&gt;法拉汉 勇敢面对父亲&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;拉杜 勇敢面试&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="51.75" y="450" width="115" height="40" as="geometry" />
+          <mxGeometry x="50" y="455" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-107" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="75" y="510" width="110" height="65" as="geometry" />
@@ -231,10 +231,19 @@
           <mxGeometry x="9.166666666666668" y="16.25" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-110" value="&lt;div&gt;&lt;b&gt;病毒剃胡子，出难题&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;皮娅帮兰彻偷卷子&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="450" width="120" height="40" as="geometry" />
+          <mxGeometry x="197.5" y="455" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-111" value="去找皮娅" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340.52" y="460" width="76.98" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yZjfCOFog3afnpDB0KPi-112" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="85" y="520" width="110" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="yZjfCOFog3afnpDB0KPi-113" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="yZjfCOFog3afnpDB0KPi-112">
+          <mxGeometry width="110.00000000000001" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="yZjfCOFog3afnpDB0KPi-114" value="断了两条腿&lt;div&gt;才真的站起来&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="yZjfCOFog3afnpDB0KPi-112">
+          <mxGeometry x="9.166666666666668" y="16.25" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
