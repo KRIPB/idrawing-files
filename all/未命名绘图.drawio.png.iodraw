@@ -210,13 +210,13 @@
           <mxGeometry x="9.166666666666668" y="16.25" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-103" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="233" width="217" height="90" as="geometry" />
+          <mxGeometry x="233" width="197" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-104" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="yZjfCOFog3afnpDB0KPi-103">
-          <mxGeometry width="170" height="80" as="geometry" />
+          <mxGeometry width="154.33179723502306" height="71.11111111111111" as="geometry" />
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-105" value="追求卓越&amp;nbsp;&lt;div&gt;成功就会在不经意间&lt;/div&gt;&lt;div&gt;追上你&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="yZjfCOFog3afnpDB0KPi-103">
-          <mxGeometry x="20.002551380860634" y="14.995714285714289" width="130" height="60" as="geometry" />
+          <mxGeometry x="18.15899825820067" y="13.329523809523812" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
