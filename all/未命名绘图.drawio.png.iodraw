@@ -47,9 +47,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yZjfCOFog3afnpDB0KPi-20" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yZjfCOFog3afnpDB0KPi-17">
-          <mxGeometry x="-0.0253" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="yZjfCOFog3afnpDB0KPi-22" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="140" y="60" as="sourcePoint" />
+            <mxPoint x="240" y="60" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
