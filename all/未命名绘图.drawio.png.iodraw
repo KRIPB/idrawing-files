@@ -267,18 +267,6 @@
         <mxCell id="yZjfCOFog3afnpDB0KPi-128" value="总会有公司喜欢人类&lt;div&gt;不喜欢机器&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="yZjfCOFog3afnpDB0KPi-126">
           <mxGeometry x="5.873221476510068" y="20" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yZjfCOFog3afnpDB0KPi-130" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="291.5" y="510" width="248.99" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="yZjfCOFog3afnpDB0KPi-131" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="yZjfCOFog3afnpDB0KPi-130">
-          <mxGeometry width="165.98802395209583" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="yZjfCOFog3afnpDB0KPi-132" value="&lt;span style=&quot;background-color: initial;&quot;&gt;人们会说长道短一会儿，&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;然后就忘了这事&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="yZjfCOFog3afnpDB0KPi-130">
-          <mxGeometry x="5.986207584830339" y="12.5" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="yZjfCOFog3afnpDB0KPi-133" value="&lt;b&gt;偷卷子,被发现&lt;/b&gt;&lt;div&gt;&lt;b&gt;勒令退学&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="yZjfCOFog3afnpDB0KPi-130">
-          <mxGeometry x="165.99" y="-25" width="83" height="45" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
