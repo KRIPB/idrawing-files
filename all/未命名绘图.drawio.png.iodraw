@@ -60,10 +60,7 @@
           <mxGeometry x="190" y="282.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-33" value="&lt;b&gt;免费吃席&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="177.5" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="yZjfCOFog3afnpDB0KPi-34" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="413" y="150" width="70" height="120" as="geometry" />
+          <mxGeometry x="418" y="166.25" width="60" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="yZjfCOFog3afnpDB0KPi-37" target="yZjfCOFog3afnpDB0KPi-38" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry" />
@@ -73,6 +70,9 @@
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-38" value="病毒寄信" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="413" y="282.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yZjfCOFog3afnpDB0KPi-34" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="413" y="150" width="70" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
