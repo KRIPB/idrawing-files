@@ -28,9 +28,6 @@
         <mxCell id="yZjfCOFog3afnpDB0KPi-6" value="&lt;b&gt;机械battle&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="205" width="60" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="yZjfCOFog3afnpDB0KPi-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yZjfCOFog3afnpDB0KPi-11" target="yZjfCOFog3afnpDB0KPi-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-17" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="220" as="sourcePoint" />
