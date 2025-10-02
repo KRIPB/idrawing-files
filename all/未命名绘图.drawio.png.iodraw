@@ -173,7 +173,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-88" value="总会有公司喜欢人类，不喜欢机器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="399.48" y="420" width="200" height="30" as="geometry" />
+          <mxGeometry x="507.76" y="407.34" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yZjfCOFog3afnpDB0KPi-94" target="yZjfCOFog3afnpDB0KPi-106">
           <mxGeometry relative="1" as="geometry" />
@@ -232,6 +232,9 @@
         <mxCell id="yZjfCOFog3afnpDB0KPi-110" value="&lt;div&gt;&lt;b&gt;病毒剃胡子，出难题&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;皮娅帮兰彻偷卷子&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="197.5" y="455" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="yZjfCOFog3afnpDB0KPi-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yZjfCOFog3afnpDB0KPi-111" target="yZjfCOFog3afnpDB0KPi-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-111" value="去找皮娅" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="358.5" y="460" width="76.98" height="30" as="geometry" />
         </mxCell>
@@ -248,7 +251,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-124" value="&lt;b&gt;偷卷子,被发现&lt;/b&gt;&lt;div&gt;&lt;b&gt;勒令退学&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;救姐姐&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="467" y="450" width="83" height="55" as="geometry" />
+          <mxGeometry x="467" y="447.5" width="83" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
