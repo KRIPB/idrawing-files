@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="yZjfCOFog3afnpDB0KPi-34" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="413" y="150" width="77" height="130" as="geometry" />
+          <mxGeometry x="413" y="150" width="77" height="150" as="geometry" />
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="150" width="70" height="110" as="geometry" />
@@ -79,6 +79,9 @@
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-42" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;size=0.5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="15" y="335" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yZjfCOFog3afnpDB0KPi-46" value="&lt;b&gt;建议皮娅&lt;/b&gt;&lt;div&gt;&lt;b&gt;苏哈斯标签&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="428" y="210" width="67" height="42.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
