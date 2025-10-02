@@ -206,7 +206,7 @@
           <mxGeometry x="9.166666666666668" y="16.25" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-103" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="270" width="197" height="80" as="geometry" />
+          <mxGeometry x="293.02" y="20" width="197" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-104" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="yZjfCOFog3afnpDB0KPi-103">
           <mxGeometry width="154.33179723502306" height="71.11111111111111" as="geometry" />
@@ -268,7 +268,10 @@
           <mxGeometry x="5.873221476510068" y="20" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-138" value="&lt;b&gt;皮娅离开家去医院&lt;/b&gt;&lt;div&gt;&lt;b&gt;莫娜要生了&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;三兄弟雨天离开学校&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;毫米与同学一起救莫娜&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;生孩子要踢球&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="573.02" y="460" width="126.98" height="92.5" as="geometry" />
+          <mxGeometry x="560.52" y="451.25" width="126.98" height="92.5" as="geometry" />
+        </mxCell>
+        <mxCell id="yZjfCOFog3afnpDB0KPi-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yZjfCOFog3afnpDB0KPi-124" target="yZjfCOFog3afnpDB0KPi-138">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
