@@ -173,6 +173,12 @@
         <mxCell id="yZjfCOFog3afnpDB0KPi-86" value="出成绩&lt;div&gt;拍毕业照&lt;/div&gt;&lt;div&gt;病毒打赌-剃胡子&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="435" y="345" width="110" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yZjfCOFog3afnpDB0KPi-87" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="505" y="110" as="sourcePoint" />
+            <mxPoint x="505" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
