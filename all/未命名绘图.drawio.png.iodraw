@@ -29,8 +29,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yZjfCOFog3afnpDB0KPi-3" value="&lt;b style=&quot;color: rgb(32, 33, 34); font-family: sans-serif; font-size: 16px; text-align: start; background-color: rgb(248, 249, 250); animation-delay: -0.01ms !important; animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; scroll-behavior: auto !important; transition-duration: 0ms !important;&quot;&gt;法尔汉&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="200" width="120" height="40" as="geometry" />
+        <mxCell id="yZjfCOFog3afnpDB0KPi-3" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;sans-serif&quot; color=&quot;#202122&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;b&gt;电机学长&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="200" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
