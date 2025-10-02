@@ -189,7 +189,10 @@
           <mxGeometry x="399.48" y="420" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-92" value="宣讲会病毒羞辱拉 法" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="360" width="130" height="30" as="geometry" />
+          <mxGeometry x="170" y="330" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yZjfCOFog3afnpDB0KPi-93" value="宣讲会病毒羞辱拉 法" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="340" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
