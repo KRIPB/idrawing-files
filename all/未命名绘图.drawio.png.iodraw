@@ -101,6 +101,9 @@
         <mxCell id="yZjfCOFog3afnpDB0KPi-57" value="追求卓越 成功就会在不经意间追上你" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="455" y="100" width="220" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="yZjfCOFog3afnpDB0KPi-60" value="病毒寄信" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="315" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
