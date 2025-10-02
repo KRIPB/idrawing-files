@@ -80,8 +80,13 @@
         <mxCell id="yZjfCOFog3afnpDB0KPi-40" value="暴躁拉杜 温和法尔汉" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="390" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yZjfCOFog3afnpDB0KPi-41" value="暴躁法尔汉 温和拉杜" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-10" y="390" width="130" height="30" as="geometry" />
+        <mxCell id="yZjfCOFog3afnpDB0KPi-41" value="暴躁法尔汉&amp;nbsp;&lt;div&gt;温和拉杜&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-10" y="385" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yZjfCOFog3afnpDB0KPi-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yZjfCOFog3afnpDB0KPi-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="360" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-42" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;size=0.5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="15" y="345" width="20" height="60" as="geometry" />
