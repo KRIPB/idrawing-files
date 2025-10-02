@@ -56,10 +56,7 @@
           <mxGeometry x="104.00999999999999" y="647.5" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-41" value="暴躁法尔汉&amp;nbsp;&lt;div&gt;温和拉杜&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="405.52" y="660" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="yZjfCOFog3afnpDB0KPi-42" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;size=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440.52" y="600" width="20" height="60" as="geometry" />
+          <mxGeometry x="737" y="570" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.411;entryY=0.026;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yZjfCOFog3afnpDB0KPi-60" target="yZjfCOFog3afnpDB0KPi-54">
           <mxGeometry relative="1" as="geometry" />
