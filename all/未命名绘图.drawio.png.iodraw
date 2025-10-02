@@ -74,18 +74,6 @@
         <mxCell id="yZjfCOFog3afnpDB0KPi-46" value="&lt;b&gt;停电&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;病毒交流器&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="yZjfCOFog3afnpDB0KPi-48">
           <mxGeometry x="5" y="98.75" width="67" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="yZjfCOFog3afnpDB0KPi-49" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="160" width="70" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="yZjfCOFog3afnpDB0KPi-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="yZjfCOFog3afnpDB0KPi-49">
-          <mxGeometry width="70" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="yZjfCOFog3afnpDB0KPi-8" value="&lt;b&gt;乔伊之死&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="yZjfCOFog3afnpDB0KPi-49">
-          <mxGeometry x="5" y="57.27272727272727" width="60" height="18.40909090909091" as="geometry" />
-        </mxCell>
-        <mxCell id="yZjfCOFog3afnpDB0KPi-11" value="&lt;b&gt;30s测试&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="yZjfCOFog3afnpDB0KPi-49">
-          <mxGeometry x="10" y="24.545454545454547" width="50" height="16.363636363636363" as="geometry" />
-        </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-52" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="150" width="170" height="150" as="geometry" />
         </mxCell>
@@ -106,6 +94,15 @@
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-61" value="兰彻偶遇乔伊" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="265" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yZjfCOFog3afnpDB0KPi-28" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="160" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yZjfCOFog3afnpDB0KPi-8" value="&lt;b&gt;乔伊之死&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="195" y="204.54545454545456" width="60" height="14.318181818181818" as="geometry" />
+        </mxCell>
+        <mxCell id="yZjfCOFog3afnpDB0KPi-11" value="&lt;b&gt;30s测试&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="179.0909090909091" width="50" height="12.727272727272727" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
