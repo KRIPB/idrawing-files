@@ -179,8 +179,8 @@
             <mxPoint x="545" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yZjfCOFog3afnpDB0KPi-88" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="445" y="408" width="50" height="30" as="geometry" />
+        <mxCell id="yZjfCOFog3afnpDB0KPi-88" value="总会有公司喜欢人类，不喜欢机器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="408" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
