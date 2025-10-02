@@ -165,10 +165,10 @@
           <mxGeometry x="665" y="310" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-84" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="463.02" y="360" width="76.98" height="30" as="geometry" />
+          <mxGeometry x="360" y="360" width="76.98" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yZjfCOFog3afnpDB0KPi-85" value="皮娅看守&lt;div&gt;赶上考试&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="570" y="360" width="70" height="40" as="geometry" />
+          <mxGeometry x="570" y="355" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
