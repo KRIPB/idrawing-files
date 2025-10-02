@@ -221,6 +221,15 @@
         <mxCell id="yZjfCOFog3afnpDB0KPi-106" value="&lt;div&gt;&lt;b&gt;法拉汉 勇敢面对父亲&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;拉杜 勇敢面试&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="51.75" y="450" width="115" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="yZjfCOFog3afnpDB0KPi-107" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="510" width="110" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="yZjfCOFog3afnpDB0KPi-108" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="yZjfCOFog3afnpDB0KPi-107">
+          <mxGeometry width="110.00000000000001" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="yZjfCOFog3afnpDB0KPi-109" value="断了两条腿&lt;div&gt;才真的站起来&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="yZjfCOFog3afnpDB0KPi-107">
+          <mxGeometry x="9.166666666666668" y="16.25" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
